@@ -1,0 +1,32 @@
+{
+	"name" : "Complete Edition: ukrainian translation",
+	"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition",
+
+	"modType" : "Translation",
+	"version" : "0.9.8",
+
+	"author" : "olexn",
+	"contact" : "https://toloka.to/u59021",
+
+	"keepDisabled" : true,
+
+	"filesystem":
+	{
+		"DATA/" :
+		[
+			{"type" : "dir", "path" : "/Data"},
+		],
+		"CONFIG/" :
+		[
+			{ "type" : "dir", "path" : "/Config"}
+		],
+		"SPRITES/":
+		[
+			{"type" : "dir",  "path" : "/Sprites"}
+		],
+		"MAPS/":
+		[
+			{"type" : "dir",  "path" : "/Maps"}
+		]
+	}
+}
