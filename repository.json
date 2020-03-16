@@ -2,11 +2,11 @@
 	"vcmi-mod-ce-ukr-master": {
 		"name" : "Complete Edition: Ukrainian translation",
 		"description" : "Українізатор гри Heroes of Might and Magic III: Complete Edition",
-		"version" : "1.0.6",
+		"version" : "1.0.7",
 		"author" : "olexn",
 		"contact" : "https://toloka.to/u59021",
 		"modType" : "Translation",
-		"download" : "https://github.com/burunduk/vcmi-mod-ce-ukr/archive/master.zip",
+		"download" : "https://github.com/burunduk/vcmi-mod-ce-ukr",
 		"size" : "15211"
 	}
 }
